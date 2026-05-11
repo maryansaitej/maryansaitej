@@ -18,7 +18,7 @@ Building products, experimenting with AI systems, and shipping fast.
 
 I'm a self-taught developer from India focused on building practical software and AI-powered products.
 
-I enjoy creating systems that feel fast, useful, and scalable — especially realtime applications, AI workflows, and startup-oriented products.
+I enjoy creating systems that feel fast, useful, and scalable, especially realtime applications, AI workflows, and startup-oriented products.
 
 Currently:
 - Building independent projects
@@ -31,7 +31,7 @@ I value:
 - fast execution
 - clean architecture
 - practical engineering
-- high-agency building
+- high agency building
 - minimalism over complexity
 
 ---
@@ -80,7 +80,7 @@ A lightweight anonymous realtime chat platform inspired by temporary chat system
 
 I built this initially as a university project after discovering temporary anonymous chat platforms and wanting to create a free alternative while experimenting with realtime systems and backend engineering in C++.
 
-Instead of using a conventional backend stack, I intentionally chose C++ to push myself deeper into performance-oriented backend development and low-level systems thinking.
+Instead of using a conventional backend stack, I intentionally chose C++ to push myself deeper into performance oriented backend development and low-level systems thinking.
 
 ---
 
