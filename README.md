@@ -119,7 +119,7 @@ Ship useful things.
 
 ## Connect
 
-- GitHub: https://github.com/Tmg975
+- GitHub: https://github.com/maryansaitej
 
 ---
 
