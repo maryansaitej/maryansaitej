@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aryan Sai Tej
+# M Aryan Sai Tej
 
 ### Self-Taught Developer • AI Builder • Startup-Oriented Engineer
 
