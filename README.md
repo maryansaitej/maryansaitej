@@ -1,4 +1,4 @@
-# Heyyo, I'm [Aryan](https://github.com/Tmg975)! 👋
+# Heyyo, I'm [Aryan](https://github.com/maryansaitej)! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-aryan-sai-tej-9a97b7366/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mythicalscholar)
@@ -42,12 +42,12 @@
 ### 📊 &nbsp; GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tmg975&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maryansaitej&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmg975&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryansaitej&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tmg975&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maryansaitej&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
