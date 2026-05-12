@@ -28,21 +28,6 @@
 
 ---
 
-### ⚡ &nbsp; Featured Project — [anon-chat](https://github.com/Tmg975)
-
-> Anonymous realtime chat platform. No accounts. No logs. Just rooms.
-
-Built as a university project — inspired by TempChat, built with **C++17 + Crow + WebSockets**.
-
-Why C++ instead of Node? Because I wanted to understand what *actually* happens at the connection level. Memory, sockets, thread safety. C++ forced me to earn it.
-
-```
-Backend   →  C++17 + Crow Framework
-Transport →  WebSockets (realtime, full-duplex)
-Storage   →  RAM-only (ephemeral by design)
-Deploy    →  Docker → Render + GitHub Pages
-```
-
 ---
 
 ### 🎯 &nbsp; Currently Exploring
