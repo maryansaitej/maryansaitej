@@ -17,7 +17,7 @@
 ### 🛠 &nbsp; Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,python,html,css" />
 </p>
 
 ### ⚙️ &nbsp; DevOps & Infra
