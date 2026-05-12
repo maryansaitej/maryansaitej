@@ -1,4 +1,4 @@
-# Heyyo, I'm [Aryan](https://github.com/maryansaitej)! 👋
+# Hello, I'm [Aryan](https://github.com/maryansaitej)! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-aryan-sai-tej-9a97b7366/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mythicalscholar)
