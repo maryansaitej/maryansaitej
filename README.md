@@ -148,7 +148,7 @@ it does it reliably, and it doesn't surprise you at 2am.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tmg975&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=7c3aed"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryansaitej&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=7c3aed"/>
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tmg975&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=6"/>
 
