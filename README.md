@@ -1,130 +1,106 @@
+<!-- Header -->
 <div align="center">
 
-# M Aryan Sai Tej
+```
+▄▀█ █▀█ █▄█ ▄▀█ █▄░█   █▀ ▄▀█ █   ▀█▀ █▀▀ ░░█
+█▀█ █▀▄ ░█░ █▀█ █░▀█   ▄█ █▀█ █    █  ██▄ █▄█
+```
 
-### Self-Taught Developer • AI Builder • Startup-Oriented Engineer
-
-Building products, experimenting with AI systems, and shipping fast.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Tmg975)
+**`builder. experimenter. systems thinker.`**
 
 </div>
 
 ---
 
-## About Me
+## whoami
 
-I'm a self-taught developer from India focused on building practical software and AI-powered products.
+Self-taught developer from India. I build things — mostly backend, sometimes AI, always with intent.
 
-I enjoy creating systems that feel fast, useful, and scalable, especially realtime applications, AI workflows, and startup-oriented products.
+Currently obsessed with: realtime systems, AI agents, and writing software that does something real.
 
-Currently:
-- Building independent projects
-- Exploring AI-native applications
-- Learning systems/backend engineering
-- Experimenting with realtime infrastructure
-- Working toward startup opportunities and engineering roles
-
-I value:
-- fast execution
-- clean architecture
-- practical engineering
-- high agency building
-- minimalism over complexity
+Not chasing trends. Building fundamentals.
 
 ---
 
-## Tech Stack
+## stack
 
-### Languages
-```txt
-C++ • C • JavaScript • HTML • CSS
 ```
-
-### Currently Exploring
-```txt
-AI Agents • Realtime Systems • WebSockets • Backend Architecture
-```
-
-### Tools & Technologies
-```txt
-Git • Docker • Linux • GitHub Pages • Render
+Languages     →  C++  ·  C  ·  JavaScript
+Runtime       →  Linux  ·  Docker
+Backend       →  Crow (C++)  ·  WebSockets
+Deploy        →  Render  ·  GitHub Pages
+Tools         →  Git  ·  Bash
 ```
 
 ---
 
-## Featured Project
+## featured build
 
-# Anonymous Realtime Chat Platform
+### [`anon-chat`](https://github.com/Tmg975) — Anonymous Realtime Chat Platform
 
-A lightweight anonymous realtime chat platform inspired by temporary chat systems.
+> A lightweight, ephemeral chat platform. No accounts. No logs. Just rooms.
 
-### Built With
-- C++17
-- Crow Framework
-- WebSockets
-- Docker
-- GitHub Pages
-- Render
+Built this as a university project — wanted a free alternative to TempChat and used it as an excuse to go deep on realtime infrastructure.
 
-### Features
-- Realtime anonymous communication
-- RAM-based room/user management
-- WebSocket-powered messaging
-- Lightweight backend architecture
-- Minimal deployment pipeline
+**Why C++ for the backend?**  
+Because I could've used Node. I didn't want to. I wanted to understand what actually happens when a WebSocket message lands — memory management, connection handling, thread safety. C++ forced me to think at that level.
 
-### Why This Project Matters
+```
+Backend    →  C++17 + Crow framework
+Transport  →  WebSockets (realtime, full-duplex)
+Storage    →  RAM-only (intentionally ephemeral)
+Deploy     →  Docker → Render (backend) + GitHub Pages (frontend)
+```
 
-I built this initially as a university project after discovering temporary anonymous chat platforms and wanting to create a free alternative while experimenting with realtime systems and backend engineering in C++.
-
-Instead of using a conventional backend stack, I intentionally chose C++ to push myself deeper into performance oriented backend development and low-level systems thinking.
+`lightweight` · `realtime` · `systems-oriented` · `zero-persistence by design`
 
 ---
 
-## What I'm Focused On
+## current focus
 
-- Building products that solve real problems
-- AI-native applications
-- Fast product iteration
-- Startup-focused engineering
-- Becoming a stronger systems/backend developer
-
----
-
-## Developer Philosophy
-
-```txt
-Build fast.
-Learn deeply.
-Keep systems simple.
-Ship useful things.
+```
+[ ] AI Agents & tool-using systems
+[ ] Backend architecture patterns
+[ ] Realtime infrastructure at scale
+[ ] Systems thinking applied to product
 ```
 
 ---
 
-## GitHub Stats
+## philosophy
+
+> Ship first. Optimize when it matters. Pick hard problems on purpose.
+
+I deliberately use tools that make things harder — not to be contrarian, but because friction is where learning happens. I'd rather understand a system deeply than move fast with abstractions I don't own.
+
+Good software is boring in the best way: it does one thing, it does it reliably, and it doesn't surprise you at 2am.
+
+---
+
+## stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Tmg975&show_icons=true&hide_border=true&theme=transparent)
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tmg975&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&hide=prs,issues)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tmg975&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tmg975&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999)
 
 </div>
 
 ---
 
-## Connect
+## connect
 
-- GitHub: https://github.com/maryansaitej
+```
+GitHub   →  github.com/Tmg975
+Location →  India
+Status   →  Open to collaborations, internships, and interesting problems
+```
 
 ---
 
 <div align="center">
 
-minimal systems • practical engineering • startup energy
+*Early in the journey. Building in public. Figuring it out.*
 
 </div>
