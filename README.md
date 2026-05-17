@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <i>Self-taught. Fast shipper. Always building.</i>
+  <i>Self taught. Fast shipper. Always building.</i>
 </p>
